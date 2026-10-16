@@ -24,6 +24,21 @@ governed by the Apache License 2.0. All other components are governed by
 the InfEdge Commercial License Agreement.
 
 ================================================================================
+CONTRIBUTIONS NOT ACCEPTED
+================================================================================
+
+InfEdge SDK does NOT accept external code contributions.
+
+In accordance with Section 5 of the Apache License 2.0, InfEdge hereby
+explicitly states that it does NOT accept any Contribution (as defined in
+the License) submitted by any party. Any pull request, patch, code snippet,
+or other form of code submission will be closed without review and will
+NOT be incorporated into the Work.
+
+Feedback, bug reports, and feature suggestions are welcome and should be
+submitted through the GitHub Issue tracker. See CONTRIBUTING.md for details.
+
+================================================================================
 TRADEMARKS
 ================================================================================
 
@@ -37,8 +52,7 @@ THIRD-PARTY COMPONENTS
 ================================================================================
 
 This product includes the following third-party open source components.
-Each component is licensed under its own terms; see the respective
-component directory for full license text.
+Each component is licensed under its own terms.
 
   - Rockchip RKMPP / RGA / RKNN runtime   (Rockchip proprietary / Apache 2.0)
   - Mediasoup                             (ISC License)
@@ -52,6 +66,6 @@ CONTACT
 ================================================================================
 
 For commercial licensing, professional edition, or enterprise source
-delivery, contact: [your-email@example.com]
+delivery, contact: [jid-1234@163.com]
 
 Website: https://infedge.com
