@@ -1,0 +1,57 @@
+InfEdge SDK
+Copyright 2026 InfEdge
+
+This product includes software developed by InfEdge.
+
+================================================================================
+LICENSE SCOPE
+================================================================================
+
+The InfEdge SDK Community Edition source code is licensed under the
+Apache License, Version 2.0 (see the LICENSE file for the full text).
+
+The following components are NOT covered by the Apache License 2.0 and
+are distributed under the InfEdge Commercial License Agreement:
+
+  - lib/aarch64/libinfedge.so        (core engine, binary)
+  - server/web-backend               (Rust backend, binary)
+  - server/web-frontend/dist/        (Vue frontend, binary)
+  - Professional Edition package
+  - Enterprise Edition package
+
+Only source files explicitly marked with an Apache 2.0 license header are
+governed by the Apache License 2.0. All other components are governed by
+the InfEdge Commercial License Agreement.
+
+================================================================================
+TRADEMARKS
+================================================================================
+
+"InfEdge", "Infinite Edge", and the InfEdge logo are trademarks of InfEdge.
+Use of these marks without prior written permission is not granted by the
+Apache License 2.0. Reasonable and customary use for describing the origin
+of the Work is permitted.
+
+================================================================================
+THIRD-PARTY COMPONENTS
+================================================================================
+
+This product includes the following third-party open source components.
+Each component is licensed under its own terms; see the respective
+component directory for full license text.
+
+  - Rockchip RKMPP / RGA / RKNN runtime   (Rockchip proprietary / Apache 2.0)
+  - Mediasoup                             (ISC License)
+  - Rust ecosystem crates                 (MIT / Apache 2.0 dual)
+  - Vue 3, Vite, TypeScript               (MIT License)
+  - OpenCV                                (Apache 2.0)
+  - FFmpeg                                (LGPL / GPL, build-dependent)
+
+================================================================================
+CONTACT
+================================================================================
+
+For commercial licensing, professional edition, or enterprise source
+delivery, contact: [your-email@example.com]
+
+Website: https://infedge.com
